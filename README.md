@@ -14,7 +14,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center" width="100px">
-I like to create websites, I want to develop in this area. Web development attracts me with its volume of information and flexibility. So many ideas and possibilities can be realized. I can work long and hard and enjoy it. In the future I want to study: 𝙰𝚗𝚐𝚞𝚕𝚊𝚛, 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝
+Я родился и живу в Москве,
+              закончил Московский Политех. Люблю слушать музыку, а ещё увлекаюсь культуризмом.
+              Недавно начал кодить. С 2017 года работаю в РАНХиГС ИБДА.
+              После того, как прошёл курс  по веб-разработке,
+              начал заниматься фриланс-заказами
 </p>
 <br/>
 
