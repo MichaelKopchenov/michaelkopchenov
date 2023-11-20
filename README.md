@@ -59,8 +59,6 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=michaelkopchenov&color=green)
-
 ## 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=michaelkopchenov&theme=gruvbox)](https://github.com/michaelkopchenov/github-profile-trophy)
