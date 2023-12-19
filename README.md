@@ -32,6 +32,10 @@
     <img src="https://komarev.com/ghpvc/?username=michaelkopchenov&color=green">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=MichaelKopchenov&top_languages=true">
+</p>
   
 ## 📕 My projects
 
